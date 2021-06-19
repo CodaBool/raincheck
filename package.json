@@ -1,0 +1,19 @@
+{
+  "name": "waterman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1",
+    "timeago.js": "^4.0.2",
+    "twilio": "^3.64.0"
+  }
+}
